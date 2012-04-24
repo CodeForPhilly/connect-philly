@@ -14,7 +14,8 @@ The SMS text message API is provided by [SMSified](http://smsified.com).
 
 The code was developed with PHP 5.3.8 and the Zend Framework 1.11.
 
-The computer centers are stored in a Google Fusion Table currently located [here](https://www.google.com/fusiontables/DataSource?snapid=S467324OMhp).
+The computer centers are stored in a Google Fusion Table currently 
+located [here](https://www.google.com/fusiontables/DataSource?snapid=S467324OMhp).
 
 To Do
 ======
@@ -28,4 +29,5 @@ instances where the message did succeed but smsified notified a delivery failure
 Team
 ====
 
-Connect Philly is the vision of [Brian James Kirk](https://twitter.com/brianjameskirk), implemented by [Jim Smiley](http://twitter.com/jimRsmiley).
+Connect Philly is the vision of Technically Philly and the Freedom Rings 
+Partnership, implemented by [Jim Smiley](http://twitter.com/jimRsmiley).
