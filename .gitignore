@@ -1,0 +1,8 @@
+connect.ini
+phpdocs
+logs/*
+dat/*
+.zfproject.xml
+nbproject
+scripts
+tests

@@ -1,0 +1,14 @@
+html {
+    width: 900px;
+    height: 780px;
+    background:#FFF;
+}
+
+html body {
+    margin:0px;
+    height: 780px;
+	width: 100%;
+	overflow:auto; /*IE7 needs this*/
+    background:#FFF;
+}
+

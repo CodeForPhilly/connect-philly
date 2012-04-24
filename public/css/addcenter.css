@@ -1,0 +1,89 @@
+div .connect-form-element {
+    overflow: auto;
+    padding-bottom: 10px;
+}
+
+.connect-form-label {
+    float: left;
+    width: 150px;
+    text-align: right;
+    padding-top: 7px;
+    
+}
+
+.connect-form-labeltext {
+    float: right;
+}
+
+.connect-form-labeltext-text {
+    float: left;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+.connect-form-labeltext-required {
+    float: left;
+    font-weight: bold;
+    color:red;
+    font-size: 1.5em;
+}
+
+.clearBoth { 
+    clear:both; 
+}
+
+/*
+contains the input, description and any errors
+*/
+div .connect-form-input {
+    overflow: auto;
+    position: relative;
+    float: left;
+    width: 650px;
+    padding: 0px 3px 3px 10px;
+}
+
+.connect-form-description {
+    width: inherit;
+    text-align: left;
+    padding: 2px 0 0 0;
+    font-style:italic;
+    font-size: 0.9em;
+}
+
+
+.connect-form-error ul {
+    width: inherit;
+    padding: 2px 0 2px 0px;
+    text-align: left;
+    color: red;
+    font-weight: bold;
+}
+
+.connect-form-button {
+    width: inherit;
+    margin-left: 300px;
+}
+
+.connect-time-open {
+    float: left;
+    width: 450px;
+}
+
+.connect-time-close {
+    float: right;
+    width: 450px;
+}
+
+.connect-time-open .connect-form-input {
+    width: 250px;
+    float: right;
+}
+
+.connect-time-close .connect-form-input {
+    width: 250px;
+    float: right;
+}
+
+#connect-verification-msg {
+    font-size: 1.5em;
+}
